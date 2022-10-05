@@ -44,37 +44,37 @@ class VehicleController extends Controller
         ];
         $retorno["informations"] = [
             [
-                "icon"=>asset("/icons/km-icone.png"),
+                "icon"=>asset("/default_icons/km_icone.png"),
                 "title"=>"KM",
                 "value"=>"0 KM",
             ],
             [
-                "icon"=>asset("/icons/combustivel-icone.png"),
+                "icon"=>asset("/default_icons/combustivel_icone.png"),
                 "title"=>"COMBUSTÍVEL",
                 "value"=>"GASOLINA",
             ],
             [
-                "icon"=>asset("/icons/cambio-icone.png"),
+                "icon"=>asset("/default_icons/cambio_icone.png"),
                 "title"=>"CÂMBIO",
                 "value"=>"AUTOMÁTICO",
             ],
             [
-                "icon"=>asset("/icons/portas-icone.png"),
+                "icon"=>asset("/default_icons/portas_icone.png"),
                 "title"=>"PORTAS",
                 "value"=>"4",
             ],
             [
-                "icon"=>asset("/icons/ar-icone.png"),
+                "icon"=>asset("/default_icons/ar_icone.png"),
                 "title"=>"AR CONDICIONADO",
                 "value"=>"SIM",
             ],
             [
-                "icon"=>asset("/icons/airbag-icone.png"),
+                "icon"=>asset("/default_icons/airbag_icone.png"),
                 "title"=>"AIRBAG",
                 "value"=>"SIM",
             ],
             [
-                "icon"=>asset("/icons/abs-icone.png"),
+                "icon"=>asset("/default_icons/abs_icone.png"),
                 "title"=>"FREIO ABS",
                 "value"=>"SIM",
             ],
