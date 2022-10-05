@@ -12,6 +12,7 @@ class VehicleController extends Controller
         $retorno["id"] = $id;
         $retorno["model"] = "Hyundai HB20";
         $retorno["model_details"] = "TREKKING 1.3 FLEX AUTOMÁTICO 18/19";
+        $retorno["price"] = 899.90;
 
         $retorno["photos"] = array();
 
